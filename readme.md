@@ -15,4 +15,11 @@ It has no dependencies and should work out of the box on Linux, Windows and Mac 
 ### Other Editors and IDEs
 
 As this extension implements the Debug Adapter Protocol it should be usable with other editors and IDEs https://microsoft.github.io/debug-adapter-protocol/implementors/tools/ aswell.
+
+If you have your NPM prefix set, (use `npm config get/set prefix` to look it up / set it), you should be able to install this npm package globally, via:
+
+```bash
+npm install --global https://github.com/Nihilus118/vscode-perl-debug
+```
+
 Feel free to try it out and report any bugs that may occur.
