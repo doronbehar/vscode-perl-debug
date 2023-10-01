@@ -19,7 +19,6 @@ As this extension implements the Debug Adapter Protocol it should be usable with
 If you have your NPM prefix set, (use `npm config get/set prefix` to look it up / set it), you should be able to install this npm package globally, via:
 
 ```bash
-npm install --global typescript
 npm install --global https://github.com/Nihilus118/vscode-perl-debug
 ```
 
